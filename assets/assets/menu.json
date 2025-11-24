@@ -1,0 +1,49 @@
+{
+    "categories": [
+        {
+            "name": "Breakfast",
+            "items": [
+                {
+                    "name": "Idli",
+                    "price": 30,
+                    "img": "idli.png"
+                },
+                {
+                    "name": "Dosa",
+                    "price": 40,
+                    "img": "dosa.png"
+                }
+            ]
+        },
+        {
+            "name": "Lunch",
+            "items": [
+                {
+                    "name": "Meals",
+                    "price": 80,
+                    "img": "meals.png"
+                },
+                {
+                    "name": "Biriyani",
+                    "price": 120,
+                    "img": "biriyani.png"
+                }
+            ]
+        },
+        {
+            "name": "Juice",
+            "items": [
+                {
+                    "name": "Lime Juice",
+                    "price": 25,
+                    "img": "lime.png"
+                },
+                {
+                    "name": "Watermelon Juice",
+                    "price": 40,
+                    "img": "watermelon.png"
+                }
+            ]
+        }
+    ]
+}
